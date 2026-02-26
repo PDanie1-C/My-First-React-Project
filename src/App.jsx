@@ -20,7 +20,7 @@ function App() {
           <img className="w-full h-screen object-cover" src={nodkrai}></img>
         </div>
 
-        <div className="bg-yellow-400/75 flex flex-col items-center justify-center w-full h-12">
+        <div className="bg-yellow-400/75 flex flex-col items-center justify-center w-full h-12 fixed bottom-0">
           <p className="text-sm text-white">@Paul Daniel Castillejo</p>
           <p className="text-xs text-white/75">All Rights Reserved</p>
         </div>
