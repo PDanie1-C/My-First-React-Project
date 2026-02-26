@@ -8,7 +8,7 @@ import { redirect } from '../utils/navigation';
 function MainBody() {
 	return (
 		<>
-			<div className="w-full flex flex-col items-center gap-5 my-15">
+			<div className="w-full flex flex-col items-center gap-5 my-15 p-5">
 				<div className="flex flex-col items-center gap-2 text-center max-w-sm">
 					<div className="bg-yellow-400 w-30 h-30 rounded-full overflow-clip">
 						<img src={mypic}></img>
